@@ -1,8 +1,6 @@
 # Block cipher and DES questions:
 
-### 1.
-
-### 2. Decrypt the message bellow:
+Decrypt the message bellow:
 
 ```base64
 47dadszk21/FYxbW9uPRjQWPzUKlJu52y//rhPEIFvM=
