@@ -4,7 +4,7 @@
 
 ## 2. Decrypt the message bellow:
 
-```text
+```base64
 47dadszk21/FYxbW9uPRjQWPzUKlJu52y//rhPEIFvM=
 ```
 
