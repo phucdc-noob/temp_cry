@@ -1,8 +1,8 @@
 # Block cipher and DES questions:
 
-1.
+## 1.
 
-2. Decryption the message bellow:
+## 2. Decrypt the message bellow:
 
 ```text
 47dadszk21/FYxbW9uPRjQWPzUKlJu52y//rhPEIFvM=
