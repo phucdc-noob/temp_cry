@@ -14,8 +14,6 @@ Source code for encrypting:
 from Crypto.Cipher import DES
 import base64
 
-message = '############################'
-
 def hex2bytes(hex):
     return bytearray.fromhex(hex)
 
@@ -28,8 +26,9 @@ def enc(text, key):
     cipher = DES.new(key, DES.MODE_ECB)
     return base64.b64encode(cipher.encrypt(text))
 
+message = '############################' # this is the message to be encrypted
+key = hex2bytes('################') # a good key? idk
 
-key = hex2bytes('################')
 text = pad(message).encode()
 
 with open('cipher.txt', 'wb') as f:
