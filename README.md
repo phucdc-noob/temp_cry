@@ -31,6 +31,5 @@ key = hex2bytes('################') # a good key? idk
 
 text = pad(message).encode()
 
-with open('cipher.txt', 'wb') as f:
-    f.write(enc(text, key))
+print(enc(text, key))
 ```
