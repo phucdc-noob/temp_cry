@@ -1,6 +1,6 @@
 ## Simple RSA Chall
 
-> Tôi mò ra được source code này, vậy, hãy giúp tôi giải mã thông điệp `m` ban đầu :(
+> Tôi mò ra được source code này, vậy, hãy giúp tôi giải mã thông điệp `m` ban đầu (`flag` đó) :(
 > `c` và `n` đã được cho trước tại comments.
 
 ```python
